@@ -30,12 +30,19 @@ Ryabov et al. (submitted). *Seasonal dynamics, spatial variability and shifts in
 
 ## License
 
-* **Code** (all `.m` files): released under the **MIT License** (© Ryabov et al.).
+* **Code** (most `.m` files): released under the **MIT License** (© Ryabov et al.).
   *Academic use requires citation of the paper below.* Please also retain copyright and license notices.
 
-* **Data & derived results** (`Bio.xlsx`, `Env.xlsx`, `Traits.xlsx`, and figures/analyses produced from them): released under **CC BY 4.0**.
-  *Attribution is required.* Cite the paper below and link to this repository (and DOI when available).
+  additionally
 
+  distinguishable_colors by Tim Holy (2025). Generate maximally perceptually-distinct colors (https://www.mathworks.com/matlabcentral/fileexchange/29702-generate-maximally-perceptually-distinct-colors), MATLAB Central File Exchange. Abgerufen14. August 2025.
+
+  linspecer  by Jonathan C. Lansey (2025). Beautiful and distinguishable line colors + colormap (https://www.mathworks.com/matlabcentral/fileexchange/42673-beautiful-and-distinguishable-line-colors-colormap), MATLAB Central File Exchange. Abgerufen14. August 2025.
+  
+  shadedErrorBar  Rob Campbell (2025). raacampbell/shadedErrorBar (https://github.com/raacampbell/shadedErrorBar), GitHub. Abgerufen14. August 2025.
+
+* **Data & derived results** (`Bio.xlsx`, `Env.xlsx`, `Traits.xlsx`, and figures/analyses produced from them): released under **CC BY 4.0**.
+  *Attribution is required.* Cite the paper below
 ### How to cite
 
 Ryabov, A. et al. (submitted, 2025). *Seasonal dynamics, spatial variability and shifts in plankton communities in Fram Strait: insights from 13 years of eDNA surveys.* Deep-Sea Research Part II.
